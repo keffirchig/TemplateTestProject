@@ -8,7 +8,7 @@ import static java.lang.Thread.sleep;
 
 public class InnerClass extends BaseUiTests {
 
-    @Test
+    @Te
     public void testCase() {
         driver.get("https://www.selenium.dev/selenium/web/web-form.html");
         driver.getTitle();
